@@ -1,0 +1,24 @@
+schedule:
+- delay:  2000
+  state:  0
+- delay:  2000
+  state:  1
+- delay:  2000
+  state:  0
+- delay:  2000
+  state:  1
+- hour:   00
+  minute: 05
+  state:  0
+- hour:   06
+  minute: 30
+  state:  1
+- hour:   09
+  minute: 00
+  state:  0
+- hour:   15
+  minute: 30
+  state:  1
+- hour:   23
+  minute: 30
+  state:  0

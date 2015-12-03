@@ -1,0 +1,9 @@
+schedule:
+- delay: 2000
+  state: 0
+- delay: 2000
+  state: 1
+- delay: 2000
+  state: 0
+- delay: 2000
+  state: 1

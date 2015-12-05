@@ -7,6 +7,11 @@ class ZWave {
     this.host = 'http://'+host;
   }
 
+  /**
+   * Sets the switch state
+   * @param state the state {0,1}
+   * @returns a promise
+   */
   setSwitch(state) {
     return postObject(
         this.host,

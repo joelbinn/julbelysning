@@ -8,5 +8,5 @@ function kicker() {
   setTimeout(() => handleTimeout(), intervalInMs);
 }
 
-module.export = kicker;
+module.exports = kicker;
 

@@ -1,0 +1,14 @@
+schedule:
+- hour:   06
+  minute: 30
+  state:   1
+- hour:   09
+  minute: 00
+  state:   0
+- hour:   15
+  minute: 40
+  state:   1
+- hour:   23
+  minute: 30
+  state:   0
+

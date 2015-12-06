@@ -1,6 +1,6 @@
 'use strict';
 
-var intervalInMs = 1000 * 60 * 10;
+var intervalInMs = 1000 * 60 * 30;
 
 function kicker() {
   var now = new Date();
